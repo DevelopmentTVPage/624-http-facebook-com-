@@ -1,0 +1,15 @@
+{
+    "title": "Sample Google Project",
+    "baseURL": "https:\/\/http:\/\/facebook.com\/\/mysubfolder",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759286",
+        "subfolder": "\/mysubfolder",
+        "firstpartycookies": true,
+        "cookiedomain": "facebook.com"
+    }
+}
